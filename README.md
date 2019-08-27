@@ -5,5 +5,5 @@
 
 
 
-## Pre_trained_model:ResNet50
+## Pre_trained_model:  ResNet50 (迁移学习)
 ### flower classification(3 classes, each class has about 120 images)
